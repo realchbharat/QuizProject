@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.quizproject.HomeActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="settings"/>
+    
+      <item
+        android:id="@+id/action_fav"
+        android:orderInCategory="100"
+        android:title="fav"/>
+
+</menu>
